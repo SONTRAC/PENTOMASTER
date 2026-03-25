@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "PENTOMASTER",
+  "orientation": "portrait",
+  "scope": "/",
+  "short_name": "PENTOMASTER",
+  "start_url": ".",
+  "theme_color": "#00ffff",
+  "description": "Juego de rompecabezas tipo pentominós con estilo neon, diseñado para desafiar la lógica y el pensamiento espacial.",
+  "lang": "es"
+}
